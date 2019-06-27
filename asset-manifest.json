@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ColorBoxesApp/static/css/main.b49faef6.chunk.css",
+    "main.js": "/ColorBoxesApp/static/js/main.1f7600c4.chunk.js",
+    "main.js.map": "/ColorBoxesApp/static/js/main.1f7600c4.chunk.js.map",
+    "runtime~main.js": "/ColorBoxesApp/static/js/runtime~main.313bd89f.js",
+    "runtime~main.js.map": "/ColorBoxesApp/static/js/runtime~main.313bd89f.js.map",
+    "static/js/2.4e81ba5b.chunk.js": "/ColorBoxesApp/static/js/2.4e81ba5b.chunk.js",
+    "static/js/2.4e81ba5b.chunk.js.map": "/ColorBoxesApp/static/js/2.4e81ba5b.chunk.js.map",
+    "index.html": "/ColorBoxesApp/index.html",
+    "precache-manifest.4b2933a3d7097328b1d378550e22e8bf.js": "/ColorBoxesApp/precache-manifest.4b2933a3d7097328b1d378550e22e8bf.js",
+    "service-worker.js": "/ColorBoxesApp/service-worker.js",
+    "static/css/main.b49faef6.chunk.css.map": "/ColorBoxesApp/static/css/main.b49faef6.chunk.css.map"
+  }
+}
